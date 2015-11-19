@@ -1,0 +1,41 @@
+body {
+  background-repeat: repeat;
+  background-image:url("http://tr1.cbsistatic.com/hub/i/2013/11/13/99c8d4e7-5d17-4e8d-9a68-e3a0f7dbbe94/big_data2_iStock.jpg");
+   width: 80%;
+   margin: 0 auto;
+  color: #000080;
+  font-family: verdana;
+}
+
+span{
+  text-decoration-color: white;
+}
+img{
+  float: left;
+  border: outset;
+}
+ul{
+  text-align: center;
+}
+
+h3 {
+    border-style: ridge;
+    text-align: center;
+    font-family: verdana;
+}
+h1 {
+    text-align: center; border-style: groove;
+
+}
+a{
+  text-decoration: none;
+}
+#def{
+  text-align: center;
+}
+#sources{
+  text-align: center;
+}
+#video{
+margin-left: 25%;
+}
